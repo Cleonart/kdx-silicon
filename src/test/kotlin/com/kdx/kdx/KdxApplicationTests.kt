@@ -1,4 +1,4 @@
-package com.kdx.jkt
+package com.kdx.kdx
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

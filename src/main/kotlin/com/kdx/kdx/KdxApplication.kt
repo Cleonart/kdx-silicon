@@ -1,4 +1,4 @@
-package com.kdx.jkt
+package com.kdx.kdx
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
